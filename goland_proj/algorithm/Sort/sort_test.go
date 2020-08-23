@@ -23,3 +23,21 @@ func TestSelectSort(t *testing.T){
 	t.FailNow()
 
 }
+
+func TestQsort(t *testing.T){
+
+	inputArray := [][]int{
+		{1, 23, 25, 29, 12, 8, 4, 100},
+		{2, 12, 88, 33, 5, 9, 1, 22},
+		{-1},
+		{0},
+		{11, 22 ,33 ,44 ,55, 66, 77, 88, 99},
+	}
+	for _, val := range inputArray{
+		out := Qsort(val)
+		t.Logf("[TestQsort] (log) out:%v\n", out)
+	}
+
+	t.FailNow()
+
+}
