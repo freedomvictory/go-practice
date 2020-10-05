@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="687c2eb5-d2a5-4748-a991-934af3ec1a1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Figure/tanXin/stations.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Figure/tanXin/stations_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="E:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1iEUITcNh11T4hAm0pYYETPE15Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="346" y="101" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601857528710">
+      <screen x="0" y="0" width="1140" height="601" />
+    </state>
+    <state x="346" y="101" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1140.601@0.0.1140.601" timestamp="1601857528710" />
+    <state x="536" y="160" key="EnvironmentVariablesDialog" timestamp="1601857019441">
+      <screen x="0" y="0" width="1140" height="601" />
+    </state>
+    <state x="536" y="160" key="EnvironmentVariablesDialog/0.0.1140.601@0.0.1140.601" timestamp="1601857019441" />
+    <state x="420" y="55" key="FileChooserDialogImpl" timestamp="1601857616013">
+      <screen x="0" y="0" width="1140" height="601" />
+    </state>
+    <state x="420" y="55" key="FileChooserDialogImpl/0.0.1140.601@0.0.1140.601" timestamp="1601857616013" />
+    <state x="149" y="0" key="SettingsEditor" timestamp="1601857618143">
+      <screen x="0" y="0" width="1140" height="601" />
+    </state>
+    <state x="149" y="0" key="SettingsEditor/0.0.1140.601@0.0.1140.601" timestamp="1601857618143" />
+    <state x="232" y="-1" width="672" height="678" key="search.everywhere.popup" timestamp="1601851066969">
+      <screen x="0" y="0" width="1140" height="601" />
+    </state>
+    <state x="232" y="-1" width="672" height="678" key="search.everywhere.popup/0.0.1140.601@0.0.1140.601" timestamp="1601851066969" />
+  </component>
+</project>
