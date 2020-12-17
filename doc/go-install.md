@@ -1,10 +1,13 @@
+
+# go install and configure 
+
 ## congigure GOROOT and GOPATH
 
 
 - GOPATH    always set `$HOME/go`  
 - GOROOT    always set golang installtion folder
 
-** reference link **
+**reference link**
 
 [SET GOPATH](https://github.com/golang/go/wiki/GOPATH)
 
@@ -38,4 +41,4 @@ $ export GOPROXY=https://goproxy.cn
     [*Go Module Blog*](https://blog.golang.org/using-go-modules)
 
 
-## Use go test 
+
